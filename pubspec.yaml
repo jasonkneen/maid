@@ -2,7 +2,7 @@ name: maid
 description: 'A cross-platform Flutter app for chatting with AI.'
 publish_to: 'none'
 
-version: 2.0.1+2109
+version: 2.0.1+2111
 
 environment:
   sdk: ^3.6.1
@@ -61,6 +61,7 @@ flutter_launcher_icons:
   ios: true
   remove_alpha_ios: true
   image_path: "images/logo.png"
+  image_path_ios: "images/logo.png"
   adaptive_icon_background: "#ffffff"
   adaptive_icon_foreground: "images/logo-foreground.png"
   adaptive_icon_monochrome: "images/logo-mono.png"
